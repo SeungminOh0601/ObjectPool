@@ -54,6 +54,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="Assets/Scripts/ObjectPool.cs" />
+    <Compile Include="Assets/Scripts/ComponentPool.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
