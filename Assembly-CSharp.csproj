@@ -53,8 +53,10 @@
     <UnityVersion>2020.3.17f1</UnityVersion>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="Assets/Scripts/ObjectPool.cs" />
     <Compile Include="Assets/Scripts/ComponentPool.cs" />
+    <Compile Include="Assets/Scripts/ObjectPool.cs" />
+    <Compile Include="Assets/Scripts/ObjectPoolTest.cs" />
+    <Compile Include="Assets/Scripts/Player.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
